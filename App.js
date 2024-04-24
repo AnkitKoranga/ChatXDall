@@ -136,7 +136,7 @@ fetch("https://api.openai.com/v1/chat/completions",{
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+   
     alignItems: 'center',
     justifyContent: 'center',
   },
